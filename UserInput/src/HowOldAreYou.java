@@ -1,5 +1,7 @@
 /**
- * Created by alvin2 on 3/5/15.
+ * Access Code 2.1
+ * Alvin Kuang
+ * HowOldAreYou.java
  */
 
 import java.util.Scanner;
