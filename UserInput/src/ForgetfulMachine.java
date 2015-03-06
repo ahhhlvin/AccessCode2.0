@@ -1,5 +1,8 @@
 /**
- * Created by alvin2 on 3/5/15.
+ * Access Code 2.1
+ * Alvin Kuang
+ * ForgetfulMachine.java
+ * This class prompts you to provide your favorite words and numbers
  */
 import java.util.Scanner;
 
