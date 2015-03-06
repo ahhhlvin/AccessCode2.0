@@ -26,6 +26,16 @@ public class IfThen {
             System.out.println("Logged in.");
         }
 
+        /*** OR ***/
+
+        System.out.println("What's your password?");
+
+        String password2 = in.nextLine();
+
+        if (password2 == "thispassword") {
+            System.out.println("Logged in.");
+        }
+
 
 
 
