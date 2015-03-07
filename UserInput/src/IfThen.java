@@ -15,11 +15,15 @@ public class IfThen {
             System.out.println("Math is real!");
         }
 
+        //
+        //
+        //
+        //
 
-        Scanner in = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("What's your password?");
 
-        int password = in.nextInt();
+        int password = input.nextInt();
 
         if (password == 1234) {
 
@@ -30,7 +34,7 @@ public class IfThen {
 
         System.out.println("What's your password?");
 
-        String password2 = in.nextLine();
+        String password2 = input.next();
 
         if (password2 == "thispassword") {
             System.out.println("Logged in.");
